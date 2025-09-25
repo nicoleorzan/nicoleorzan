@@ -16,18 +16,3 @@
 I'm Niki, postdoctoral researcher at the **AI Lab, Vrije Universiteit Brussel (VUB)**. My work sits at the intersection of multi-agent reinforcement learning and game theory, with a focus on decentralised decision-making in partial observabile settings. I’m interested in cooperation, and how individual incentives shape collective outcomes. I am also interested in AI governance and making AI decision-making more explainable and transparent.
 
 ---
-
-#### 🛠️ Projects 
-<a href="https://github.com/nicoleorzan/marl-mo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicoleorzan&repo=marl-mo" alt="marl-mo"/>
-</a>
-<a href="https://github.com/nicoleorzan/marl-emecom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicoleorzan&repo=marl-emecom" alt="marl-emecom"/>
-</a>
-<a href="https://github.com/nicoleorzan/kite-power">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicoleorzan&repo=kite-power" alt="kite-power"/>
-</a>
-<a href="https://github.com/nicoleorzan/Multi-armed-bandit-RL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicoleorzan&repo=Multi-armed-bandit-RL" alt="Multi-armed-bandit-RL"/>
-</a>
----
