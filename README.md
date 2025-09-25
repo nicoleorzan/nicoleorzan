@@ -9,7 +9,6 @@
   <a href="https://sites.google.com/view/nicoleorzan/home-page">Website</a> ·
   <a href="https://ai.vub.ac.be/team/nicole-orzan/">VUB AI Lab</a> ·
   <a href="https://scholar.google.com/citations?user=iAzBeFIAAAAJ">Google Scholar</a> ·
-  <a href="https://github.com/nicoleorzan">GitHub</a> ·
   <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
