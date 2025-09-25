@@ -31,9 +31,4 @@ I'm Niki, postdoctoral researcher at the **AI Lab, Vrije Universiteit Brussel (V
 <a href="https://github.com/nicoleorzan/Multi-armed-bandit-RL">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicoleorzan&repo=Multi-armed-bandit-RL" alt="Multi-armed-bandit-RL"/>
 </a>
-
-- **marl-mo** — Multi-Objective, Multi-Agent RL with non-linear utilities and mixed motives.  
-- **marl-emecom** — MARL with **emergent communication** in mixed-motive environments, studying (when) talk helps or misleads.  
-- **kite-power** — Reinforcement learning for **airborne wind energy** control.
-
 ---
